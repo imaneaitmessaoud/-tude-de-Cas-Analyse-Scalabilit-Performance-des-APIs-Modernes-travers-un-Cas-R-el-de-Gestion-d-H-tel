@@ -1,0 +1,13 @@
+com\hotel\performance\grpc\HotelServiceGrpcGrpc$3.class
+com\hotel\performance\grpc\HotelServiceGrpcGrpc$HotelServiceGrpcImplBase.class
+com\hotel\performance\grpc\HotelServiceGrpcGrpc$HotelServiceGrpcBaseDescriptorSupplier.class
+com\hotel\performance\grpc\HotelServiceGrpcGrpc$AsyncService.class
+com\hotel\performance\grpc\HotelServiceGrpcGrpc$HotelServiceGrpcBlockingStub.class
+com\hotel\performance\grpc\HotelServiceGrpcGrpc$HotelServiceGrpcFileDescriptorSupplier.class
+com\hotel\performance\grpc\HotelServiceGrpcGrpc$HotelServiceGrpcStub.class
+com\hotel\performance\grpc\HotelServiceGrpcGrpc$HotelServiceGrpcFutureStub.class
+com\hotel\performance\grpc\HotelServiceGrpcGrpc$2.class
+com\hotel\performance\grpc\HotelServiceGrpcGrpc$MethodHandlers.class
+com\hotel\performance\grpc\HotelServiceGrpcGrpc$1.class
+com\hotel\performance\grpc\HotelServiceGrpcGrpc$HotelServiceGrpcMethodDescriptorSupplier.class
+com\hotel\performance\grpc\HotelServiceGrpcGrpc.class
